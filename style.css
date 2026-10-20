@@ -1,0 +1,13 @@
+body{
+    background-color: #222527;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+footer{
+    border-top: 1px solid bisque;
+}
+
+h1, h2{
+    font-weight:500;
+}
